@@ -1,0 +1,521 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--
+
+DON'T USE THIS PAGE FOR SCRAPING.
+
+Seriously. You'll only get your IP blocked.
+
+Read http://www.gutenberg.org/feeds/ to learn how to download Project
+Gutenberg metadata much faster than by scraping.
+
+--><html xmlns="http://www.w3.org/1999/xhtml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ebook="http://www.gutenberg.org/ebooks/" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" lang="fr_FR" xml:lang="fr_FR" version="XHTML+RDFa 1.0">
+
+
+
+
+<head xmlns:og="http://opengraphprotocol.org/schema/" profile="http://a9.com/-/spec/opensearch/1.1/">
+<style type="text/css">
+.icon   { background: transparent url(/pics/sprite.png?1486268315) 0 0 no-repeat; }
+</style>
+<link rel="stylesheet" type="text/css" href="/css/pg-desktop-one.css?1486268315" />
+<script type="text/javascript">//<![CDATA[
+var json_search     = "/ebooks/suggest/";
+var mobile_url      = "//m.gutenberg.org/ebooks/3200.mobile?msg=welcome_stranger";
+var canonical_url   = "http://www.gutenberg.org/ebooks/3200?msg=welcome_stranger";
+var lang            = "fr_FR";
+var fb_lang         = "fr_FR"; /* FB accepts only xx_XX */
+var msg_load_more   = "Load More Results…";
+var page_mode       = "screen";
+var dialog_title    = "Bienvenue";
+var dialog_message  = "Bienvenue au Projet Gutenberg. Vous trouverez ici 54 052 livres libres.";
+//]]></script>
+<script type="text/javascript" src="/js/pg-desktop-one.js?1486268315"></script>
+<link rel="shortcut icon" href="/pics/favicon" />
+<link rel="canonical" href="http://www.gutenberg.org/ebooks/3200?msg=welcome_stranger" />
+<link rel="search" type="application/opensearchdescription+xml" title="Recherche Projet Gutenberg" href="//www.gutenberg.org/catalog/osd-books.xml" />
+<link rel="alternate nofollow" type="application/atom+xml;profile=opds-catalog" title="Feed OPDS" href="/ebooks/3200.opds?msg=welcome_stranger" />
+<link rel="apple-touch-icon" href="/pics/apple-touch-icon" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Language" content="fr_FR" />
+<meta name="title" content="The Entire Project Gutenberg Works of Mark Twain by Mark Twain" />
+<meta name="description" content="Free kindle book and epub digitized and proofread by Projet Gutenberg." />
+<meta name="keywords" content="ebook, ebooks, free ebooks, free books, book, books, audio books" />
+<meta name="classification" content="public" />
+<meta property="og:title" content="The Entire Project Gutenberg Works of Mark Twain by Mark Twain" />
+<meta property="og:description" content="Free kindle book and epub digitized and proofread by Projet Gutenberg." />
+<meta property="og:type" content="book" />
+<meta property="og:image" content="http://www.gutenberg.org/pics/logo-144x144.png" />
+<meta property="og:url" content="http://www.gutenberg.org/ebooks/3200?msg=welcome_stranger" />
+<meta property="og:site_name" content="Project Gutenberg" />
+<meta property="fb:app_id" content="115319388529183" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@gutenberg_new" />
+<title>The Entire Project Gutenberg Works of Mark Twain by Mark Twain - Ebook libre</title>
+<link rel="alternate nofollow" type="application/rdf+xml" href="/ebooks/3200.rdf" />
+<style type="text/css">
+.qrcode { background: transparent url(//www.gutenberg.org/cache/epub/3200/pg3200.qrcode.png) 0 0 no-repeat; }
+</style>
+<meta name="google" content="notranslate" />
+</head>
+<body>
+<div id="mw-head-dummy" class="noprint"></div>
+<div id="content" itemscope="itemscope" itemtype="http://schema.org/Book">
+<div class="breadcrumbs noprint">
+<ul>
+<li class="breadcrumb first" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/" title="Aller à la page principale." itemprop="url"><span itemprop="title">Projet Gutenberg</span></a>
+</li>
+<li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/ebooks/" title="Lancer une nouvelle recherche." itemprop="url"><span itemprop="title">54 052 ebook libres</span></a>
+</li>
+<li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/ebooks/author/53" title="Trouver plus d'ebooks par le même auteur." itemprop="url"><span itemprop="title">229 par Mark Twain</span></a>
+</li>
+</ul>
+</div>
+<div class="header">
+<h1 itemprop="name">The Entire Project Gutenberg Works of Mark Twain by Mark Twain</h1>
+</div>
+<div class="body">
+<div property="dcterms:publisher" itemprop="publisher" content="Project Gutenberg"></div>
+<div itemprop="bookFormat" content="EBook"></div>
+<div id="cover-social-wrapper">
+<div id="no-cover">
+<div class="icon icon_book"></div>
+<div class="text">Aucune image disponible</div>
+</div>
+<div id="social" class="noprint">
+<ul>
+<li>
+<!-- share without javascript -->
+<div class="social-button gplus-share-button">
+<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F3200%3Fmsg%3Dwelcome_stranger" title="Partager sur Google+" onclick="open_share_popup(this.href, this.target, 640, 320)" target="_gplus_share_popup">
+<span class="icon icon_gplus"></span>
+</a>
+</div>
+</li>
+<li>
+<!-- tweet without javascript -->
+<div class="social-button twitter-share-button">
+<a href="https://twitter.com/share?related=gutenberg_new%3AProject%20Gutenberg%20New%20Books&amp;count=none&amp;lang=fr&amp;url=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F3200%3Fmsg%3Dwelcome_stranger&amp;text=The%20Entire%20Project%20Gutenberg%20Works%20of%20Mark%20Twain%20by%20Mark%20Twain" title="Partager sur Twitter" onclick="open_share_popup(this.href, this.target, 640, 320)" target="_tw_share_popup">
+<span class="icon icon_twitter"></span>
+</a>
+</div>
+</li>
+<li>
+<a onclick="printpage ()" title="Imprimer cette page"><span class="icon icon_print"></span></a>
+</li>
+</ul>
+</div>
+<div id="qr">
+<span class="qrcode qrcode-desktop noscreen"></span>
+<span class="qrcode qrcode-mobile noprint" title="Aller à notre site mobile."></span>
+</div>
+</div>
+<div id="tabs-wrapper">
+<div id="tabs">
+<ul class="noprint">
+<li><a href="#download">Télécharger</a></li>
+<li><a href="#bibrec">Bibrec</a></li>
+</ul>
+<div id="bibrec">
+<div typeof="pgterms:ebook" about="[ebook:3200]">
+<h2>Données bibliographiques <span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Table:_Bibliographic_Record" title="Explain Table: Bibliographic Record."><span class="icon icon_help noprint"></span></a>
+</span></h2>
+<table class="bibrec" summary="Bibliographic data of author and book.">
+<colgroup>
+<col class="narrow" />
+<col />
+</colgroup>
+<tr>
+<th>Auteur</th>
+<td>
+<a href="/ebooks/author/53" rel="marcrel:aut" about="/authors/53" typeof="pgterms:agent" itemprop="creator">Twain, Mark, 1835-1910</a></td>
+</tr>
+<tr>
+<th>Titre</th>
+<td itemprop="headline">
+The Entire Project Gutenberg Works of Mark Twain
+</td>
+</tr>
+<tr property="dcterms:language" datatype="dcterms:RFC4646" itemprop="inLanguage" content="en">
+<th>Langue</th>
+<td>Anglais</td>
+</tr>
+<tr property="dcterms:subject" datatype="dcterms:LCC" content="PS">
+<th>Classe LoC</th>
+<td>
+<a href="/browse/loccs/ps">PS: Language and Literatures: American and Canadian literature</a>
+</td>
+</tr>
+<tr>
+<th>Sujet</th>
+<td property="dcterms:subject" datatype="dcterms:LCSH">
+<a class="block" href="/ebooks/subject/3444">
+Literature -- Collections
+</a>
+</td>
+</tr><tr>
+<th>Sujet</th>
+<td property="dcterms:subject" datatype="dcterms:LCSH">
+<a class="block" href="/ebooks/subject/17949">
+American literature -- 19th century
+</a>
+</td>
+</tr>
+<tr>
+<th>Catégorie</th>
+<td property="dcterms:type" datatype="dcterms:DCMIType">Texte</td>
+</tr>
+<tr>
+<th>N° d’ebook</th>
+<td>3200</td>
+</tr>
+<tr property="dcterms:issued" datatype="xsd:date" content="2004-09-20T00:00:00+00:00">
+<th>Date de publication</th>
+<td itemprop="datePublished">20 sept. 2004</td>
+</tr>
+<tr>
+<th>État du copyright</th>
+<td property="dcterms:rights">Domaine public aux USA.</td>
+</tr>
+<tr>
+<th>Téléchargements</th>
+<td itemprop="interactionCount">445 téléchargements dans les 30 derniers jours.</td>
+</tr>
+<tr itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
+<th>Prix</th>
+<td><span itemprop="priceCurrency" content="USD"></span><span itemprop="price">$0.00</span><span itemprop="availability" href="http://schema.org/InStock" content="In Stock"></span></td>
+</tr>
+</table>
+</div>
+<div id="more_stuff">
+<h2 class="header">Livres analogues</h2>
+<div class="navlink grayed noprint">
+<a rel="nofollow" href="/ebooks/3200/also/" accesskey="1">
+<span class="cell leftcell">
+<span class="icon icon_suggestion"></span>
+</span>
+<span class="cell content">
+<span class="title">Les lecteurs ont aussi téléchargé…</span>
+</span>
+<span class="hstrut"></span>
+</a>
+</div>
+</div> <!-- more stuff -->
+</div>
+<div id="download">
+<div about="[ebook:3200]" rel="dcterms:hasFormat" rev="dcterms:isFormatOf">
+<h2>Télécharger cet ebook</h2>
+<table class="files" summary="Table of available file types and sizes.">
+<colgroup>
+<col class="narrow" />
+<col />
+<col />
+<col class="narrow noprint" />
+<col class="narrow noprint" />
+<col class="narrow noprint" />
+</colgroup>
+<tr>
+<th></th>
+<th>Format <span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Format" title="Explain Format."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noscreen">Url</th>
+<th class="right">Taille</th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Dropbox" title="Explain Dropbox."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Google_Drive" title="Explain Google Drive."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#OneDrive" title="Explain OneDrive."><span class="icon icon_help noprint"></span></a>
+</span></th>
+</tr>
+<tr class="even" about="//www.gutenberg.org/ebooks/3200.html.images" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="text/html" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.html.images" type="text/html" class="link" title="Télécharger">Read this book online: HTML généré (avec images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.html.images</td>
+<td class="right" property="dcterms:extent" content="17216303">16.4 MB</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+<a href="/ebooks/send/megaupload/3200.html.images" title="Send to MegaUpload." rel="nofollow"></a>
+</td>
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/3200.html.noimages" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="text/html" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.html.noimages" type="text/html" class="link" title="Télécharger">Read this book online: HTML généré (sans images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.html.noimages</td>
+<td class="right" property="dcterms:extent" content="17216303">16.4 MB</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/3200.epub.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.epub.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" type="application/epub+zip" class="link" title="Télécharger">EPUB (avec images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.epub.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088</td>
+<td class="right" property="dcterms:extent" content="6940350">6.6 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/3200.epub.images" title="Envoyer à Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/3200.epub.images" title="Envoyer à Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/3200.epub.images" title="Envoyer à OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/3200.epub.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.epub.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" type="application/epub+zip" class="link" title="Télécharger">EPUB (sans images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.epub.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088</td>
+<td class="right" property="dcterms:extent" content="6940350">6.6 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/3200.epub.noimages" title="Envoyer à Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/3200.epub.noimages" title="Envoyer à Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/3200.epub.noimages" title="Envoyer à OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/3200.kindle.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.kindle.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" type="application/x-mobipocket-ebook" class="link" title="Télécharger">Kindle (avec images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.kindle.images?session_id=cc7cf962cbf1739035415dd98955547bf79cd088</td>
+<td class="right" property="dcterms:extent" content="26882298">25.6 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/3200.kindle.images" title="Envoyer à Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/3200.kindle.images" title="Envoyer à Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/3200.kindle.images" title="Envoyer à OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="odd" about="//www.gutenberg.org/ebooks/3200.kindle.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.kindle.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088" type="application/x-mobipocket-ebook" class="link" title="Télécharger">Kindle (sans images)</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.kindle.noimages?session_id=cc7cf962cbf1739035415dd98955547bf79cd088</td>
+<td class="right" property="dcterms:extent" content="26882290">25.6 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/3200.kindle.noimages" title="Envoyer à Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/3200.kindle.noimages" title="Envoyer à Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/3200.kindle.noimages" title="Envoyer à OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="even" about="//www.gutenberg.org/ebooks/3200.txt.utf-8" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="text/plain" datatype="dcterms:IMT" class="unpadded icon_save"><a href="//www.gutenberg.org/ebooks/3200.txt.utf-8" type="text/plain" class="link" title="Télécharger">Texte brut UTF-8</a></td>
+<td class="noscreen">//www.gutenberg.org/ebooks/3200.txt.utf-8</td>
+<td class="right" property="dcterms:extent" content="16013935">15.3 MB</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+</tr>
+<tr class="even">
+<td><span class="icon icon_folder"></span></td>
+<td class="unpadded icon_file"><a href="/files/3200/" class="link">Plus des fichiers…</a></td>
+<td class="noscreen">http://www.gutenberg.org/files/3200/</td>
+<td></td>
+<td class="noprint"></td>
+<td class="noprint"></td>
+<td class="noprint"></td>
+</tr>
+</table>
+</div>
+</div> <!-- download -->
+</div>
+</div>
+</div>
+<div id="dialog" class="hidden">
+</div>
+<div class="footer">
+</div>
+</div>
+<div id="fb-root"></div>
+<div id="print-head" class="noscreen">
+<div class="center">http://www.gutenberg.org/ebooks/3200?msg=welcome_stranger<br /><br />Le Projet Gutenberg offre 54 052 ebooks libres à télécharger.</div>
+</div>
+<div id="screen-head" class="noprint">
+<table>
+<tr>
+<td rowspan="2" id="logo">
+<a href="/wiki/Main_Page" title="Aller à la page principale.">
+<span id="id1190" class="icon icon_logo"></span>
+</a>
+</td>
+<td id="tagline-badges" colspan="2">
+<table>
+<tr>
+<td id="tagline">Le Projet Gutenberg offre 54 052 ebooks libres à télécharger.</td>
+<td id="paypal-badge" class="badge">
+<form class="paypal-button" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div>
+<input lang="en" xml:lang="en" type="hidden" name="cmd" value="_s-xclick" />
+<input lang="en" xml:lang="en" type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
+<input type="image" name="submit" src="//www.gutenberg.org/pics/paypal/fr_FR.gif" title="Envoyer d’argent via PayPal." />
+</div>
+</form>
+</td>
+<td id="flattr-badge" class="badge">
+<a class="flattr-button" target="_blank" href="https://flattr.com/thing/509045/Project-Gutenberg" title="Envoyer d’argent via Flattr.">
+<span class="icon icon_flattr"></span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id="menubar-search">
+<td id="menubar">
+<a id="menubar-first" tabindex="11" accesskey="1" title="Lancer une nouvelle recherche." href="/ebooks/">Recherche</a>
+<a tabindex="22" title="Nos dernières publications." href="/ebooks/search/?sort_order=release_date">Derniers</a>
+<a tabindex="31" title="Lire les conditions générales d’utilisation du Projet Gutenberg." href="/terms_of_use/">Conditions d’utilisation</a>
+<a tabindex="32" href="/wiki/Gutenberg:Project_Gutenberg_Needs_Your_Donation" title="Apprendre pourquoi nous avons besoin de l’argent.">Faire un don?</a>
+<a tabindex="33" accesskey="m" href="//m.gutenberg.org/ebooks/3200.mobile?msg=welcome_stranger" title="Aller à notre site mobile.">Mobile</a>
+</td>
+<td id="search">
+<form method="get" action="/ebooks/search/" enctype="multipart/form-data">
+<table class="borderless">
+<tr>
+<td id="search-button-cell">
+<button id="search-button" type="submit" title="Exécuter la recherche. &lt;enter&gt;">
+<span class="icon icon_smsearch"></span>
+</button>
+</td>
+<td id="search-input-cell">
+<input id="search-input" name="query" type="text" title="Recherche Projet Gutenberg. &lt;s&gt;" accesskey="s" value="" />
+</td>
+<td id="help-button-cell">
+<button id="help-button" type="button" title="Ouvrir le menu d’aide. &lt;h&gt;" accesskey="h">Aide</button>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+<div id="helpbox" class="hide">
+<div>
+<p>Entrez vos termes de recherche séparés par des espaces, puis appuyez sur &lt;Entrée&gt;. Évitez ponctuation, sauf comme indiqué ci-dessous:</p>
+<table class="helpbox">
+<tr>
+<th>Suffixes</th>
+<th lang="en" xml:lang="en">.</th>
+<td>correspondance exacte</td>
+</tr>
+<tr>
+<th rowspan="7">Préfixes</th>
+<th lang="en" xml:lang="en">a.</th>
+<td>auteur</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">t.</th>
+<td>titre</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">s.</th>
+<td>sujet</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">l.</th>
+<td>langue</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">#</th>
+<td>ebook n°</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">n.</th>
+<td>ebook n°</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">cat.</th>
+<td>catégorie</td>
+</tr>
+<tr>
+<th rowspan="3" style="width: 8em">
+Opérateurs
+<small>Utilisez des espaces autour de ces.</small>
+</th>
+<th lang="en" xml:lang="en">|</th>
+<td>ou</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">!</th>
+<td>non</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">( )</th>
+<td>regroupement</td>
+</tr>
+</table>
+<table class="helpbox">
+<tr>
+<th>cette requête</th>
+<th>trouve</th>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">shakespeare hamlet</td>
+<td>« Hamlet » par Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">qui.</td>
+<td>« qui », et non « Quixote »</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">love stories</td>
+<td>histoires d’amour</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">a.shakespeare</td>
+<td>par Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">s.shakespeare</td>
+<td>sur Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">#74</td>
+<td>ebook n° 74</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">juvenile l.german</td>
+<td>littérature juvénile en allemand</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">verne ( l.fr | l.it )</td>
+<td>par Verne en français ou en italien</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">love stories ! austen</td>
+<td>histoires d’amour non par Austen</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">jane austen cat.audio</td>
+<td>livres audio par Jane Austen</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>
